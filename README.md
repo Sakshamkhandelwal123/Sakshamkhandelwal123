@@ -13,7 +13,7 @@ I'm Saksham Khandelwal, Sophomore at Bennett University. I am pursuing my majors
 
 ## Contributing to Open-Source 🔥🔥🔥🔥🔥
 
-<img src="https://github.com/atindra305/atindra305/blob/master/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif" alt="Coding">
+<img src="https://github.com/Sakshamkhandelwal123/Sakshamkhandelwal123/blob/main/gif.gif" alt="Coding">
 
 # Follow me on:
 
