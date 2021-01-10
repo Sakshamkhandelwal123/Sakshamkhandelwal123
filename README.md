@@ -8,7 +8,7 @@ I'm Saksham Khandelwal, Sophomore at Bennett University. I am pursuing my majors
 
 ### ⭐️  **Domain :** FullStack Web Development | Python Developer 
 ### ⭐️  **Skills :** Python, Mysql, C++, Java, JavaScript
-### ⭐️  **Hobbies :** Cricket 
+### ⭐️  **Hobbies :** Cricket 🏏 
 
 
 ## Contributing to Open-Source 🔥🔥🔥🔥🔥
