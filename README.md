@@ -17,19 +17,17 @@ I'm Saksham Khandelwal, Sophomore at Bennett University. I am pursuing my majors
 
 # Follow me on:
 
-[![GitHub followers](https://img.shields.io/github/followers/atindra305?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/atindra305/)
+[![GitHub followers](https://img.shields.io/github/followers/Sakshamkhandelwal123?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/Sakshamkhandelwal123/)
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-Atindra_Shekhar-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atindra-shekhar-6b6727193/)](https://www.linkedin.com/in/atindra-shekhar-6b6727193/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Saksham_Khandelwal-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saksham-khandelwal-82393a18b/)](https://www.linkedin.com/in/saksham-khandelwal-82393a18b/)
 
 # Languages I know: 
 
 ![](https://img.shields.io/badge/Language-Java-green)
 ![](https://img.shields.io/badge/Language-Python-blue)
 ![](https://img.shields.io/badge/Language-C++-yellow)
-![](https://img.shields.io/badge/Language-C-yellow)
 ![](https://img.shields.io/badge/Language-JavaScript-darkGreen)
 ![](https://img.shields.io/badge/Language-MySQL-red)
-![](https://img.shields.io/badge/Language-PHP-darkblue)
 
 
 # My Stats
