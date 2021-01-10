@@ -33,5 +33,5 @@ I'm Saksham Khandelwal, Sophomore at Bennett University. I am pursuing my majors
 # My Stats
 
 
-![Atindra Shekhar's github stats](https://github-readme-stats.vercel.app/api?username=atindra305&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=atindra305&theme=tokyonight&hide_langs_below=1)
+![Saksham Khandelwal's github stats](https://github-readme-stats.vercel.app/api?username=Sakshamkhandelwal123&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sakshamkhandelwal123&theme=tokyonight&hide_langs_below=1)
