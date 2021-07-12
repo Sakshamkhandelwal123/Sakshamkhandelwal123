@@ -1,4 +1,4 @@
-<img src="https://github.com/Sakshamkhandelwal123/Sakshamkhandelwal123/blob/main/Capturegit.JPG" alt="Hero image">
+<img src="https://github.com/Sakshamkhandelwal123/Sakshamkhandelwal123/blob/main/Capturegit.JPG" width="900" height="700" alt="Hero image">
 
 
 # Welcome
