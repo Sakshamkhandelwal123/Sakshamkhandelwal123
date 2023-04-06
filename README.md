@@ -45,4 +45,5 @@ I'm Saksham Khandelwal, Final year student at Bennett University. I am pursuing 
 
 
 ![Saksham Khandelwal's github stats](https://github-readme-stats.vercel.app/api?username=Sakshamkhandelwal123&show_icons=true&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sakshamkhandelwal123&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamkhandelwal123&layout=compact&theme=vision-friendly-dark)](https://github.com/Sakshamkhandelwal123/github-readme-stats)
