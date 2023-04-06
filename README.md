@@ -1,19 +1,16 @@
-<img src="https://github.com/Sakshamkhandelwal123/Sakshamkhandelwal123/blob/main/Capturegit.JPG" width="900" height="700" alt="Hero image">
-
-
 # Welcome
-I'm Saksham Khandelwal, Sophomore at Bennett University. I am pursuing my majors in Computer Science.
+I'm Saksham Khandelwal, Final year student at Bennett University. I am pursuing my majors in Computer Science.
 
 ## About 
 
-### ⭐️  **Domain :** FullStack Web Development | Python Developer 
-### ⭐️  **Skills :** Python, Mysql, C++, Java, JavaScript
+### ⭐️  **Domain :** FullStack Web Development
+### ⭐️  **Skills :** C++, Python, JavaScript, SQL, MongoDB, MySQL, Node JS, HTML, CSS, Express JS, Git, AWS
 ### ⭐️  **Hobbies :** Cricket 🏏 
 
 
 ## Contributing to Open-Source 🔥🔥🔥🔥🔥
 
-<img src="https://github.com/Sakshamkhandelwal123/Sakshamkhandelwal123/blob/main/gif.gif" alt="Coding">
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 # Follow me on:
 
@@ -21,17 +18,31 @@ I'm Saksham Khandelwal, Sophomore at Bennett University. I am pursuing my majors
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Saksham_Khandelwal-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saksham-khandelwal-82393a18b/)](https://www.linkedin.com/in/saksham-khandelwal-82393a18b/)
 
-# Languages I know: 
+### 🛠 &nbsp;Languages and Tools :
 
-![](https://img.shields.io/badge/Language-Java-green)
-![](https://img.shields.io/badge/Language-Python-blue)
-![](https://img.shields.io/badge/Language-C++-yellow)
-![](https://img.shields.io/badge/Language-JavaScript-darkGreen)
-![](https://img.shields.io/badge/Language-MySQL-red)
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</p>
+
+---
 
 
 # My Stats
 
 
 ![Saksham Khandelwal's github stats](https://github-readme-stats.vercel.app/api?username=Sakshamkhandelwal123&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sakshamkhandelwal123&theme=tokyonight&hide_langs_below=1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamkhandelwal123&layout=compact&theme=vision-friendly-dark)](https://github.com/Sakshamkhandelwal123/github-readme-stats)
