@@ -13,7 +13,7 @@ I'm Saksham Khandelwal, Software Development Engineer at Glue Labs. I pursued my
 
 ## Follow me on:
 
-[![GitHub followers](https://img.shields.io/github/followers/Sakshamkhandelwal123?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/Sakshamkhandelwal123/)
+[![GitHub followers](https://img.shields.io/github/followers/Sakshamkhandelwal123?label=Github&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/Sakshamkhandelwal123/)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Saksham_Khandelwal-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saksham-khandelwal-82393a18b/)](https://www.linkedin.com/in/saksham-khandelwal-82393a18b/)
 
