@@ -1,10 +1,10 @@
 # Welcome
-I'm Saksham Khandelwal, Final year student at Bennett University. I am pursuing my majors in Computer Science.
+I'm Saksham Khandelwal, Software Development Engineer at Glue Labs. I pursued my majors in Computer Science from Bennett University.
 
 ## About 
 
 ### ⭐️  **Domain :** FullStack Web Development
-### ⭐️  **Skills :** C++, Python, JavaScript, SQL, MongoDB, MySQL, Node JS, HTML, CSS, Express JS, Git, AWS
+### ⭐️  **Skills :** C++, Python, JavaScript, TypeScript, Node JS, NestJs, HTML, CSS, Express JS, SQL, MongoDB, MySQL, Git, AWS, GraphQL, Redis
 ### ⭐️  **Hobbies :** Cricket 🏏 
 
 ## Contributing to Open-Source 🔥🔥🔥🔥🔥
